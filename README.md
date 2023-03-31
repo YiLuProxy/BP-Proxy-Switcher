@@ -14,7 +14,7 @@ Here I use the Google Chrome browser as an example:
 ## 2. Enter proxies ##
 ### A. YiLuProxy Settings. ###
 a.　Port Forward: set the range of forward ports, such as 5500-5505;  
-b.　Bind address: 127.0.0.1; 
+b.　Bind address: 127.0.0.1;  
 c.　Select “YiLu portable proxy engine”  
 d.　Select the second and fourth proxy rules  
 e.　Finally, save settings.  
