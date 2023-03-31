@@ -40,7 +40,7 @@ BP Proxy Switcher supports IP:port:label and IP:port:user:password:label two for
 Right-click an IP and select a port.  
 ![BP Proxy Switcher & YiLu Proxy](https://www.yiluproxy.org/wp-content/uploads/2023/03/bp-proxy-switcher-yilu-port-forwarding-8.png "BP Proxy Switcher & YiLu Proxy")
 
-##### IP:port:user:password:label is suitable for YiLu Proxy dynamic IPs and 4G/5G mobile IPs. #####
+##### IP:port:user:password:label is suitable for [YiLu Proxy](https://yilu.us) dynamic IPs and 4G/5G mobile IPs. #####
 Select proxy IP type: rotating residential IP, rotating datacenter IP, mobile IP, or pro residential IP;  
 Select the format of extracting IP information - IP:port:username:password;  
 Set the number of generating IPs;  
