@@ -13,21 +13,21 @@ Here I use the Google Chrome browser as an example:
 
 ## 2. Enter proxies ##
 ### A. YiLuProxy Settings. ###
-a.　Port Forward: set the range of forward ports, such as 5500-5505;
-b.　Bind address: 127.0.0.1;
-c.　Select “YiLu portable proxy engine”
-d.　Select the second and fourth proxy rules
-e.　Finally, save settings.
+a.　Port Forward: set the range of forward ports, such as 5500-5505;  
+b.　Bind address: 127.0.0.1; 
+c.　Select “YiLu portable proxy engine”  
+d.　Select the second and fourth proxy rules  
+e.　Finally, save settings.  
 
 ![BP Proxy Switcher & YiLu Proxy](https://www.yiluproxy.org/wp-content/uploads/2023/03/bp-proxy-setting-3.png "BP Proxy Switcher & YiLu Proxy")
 
 ### B. BP Proxy Switcher Proxy Settings. ###
-Click the BP Proxy Switcher extension icon.
+Click the BP Proxy Switcher extension icon.  
 #### a.Select “Manually”. ####
-![BP Proxy Switcher & YiLu Proxy](https://www.yiluproxy.org/wp-content/uploads/2023/03/bp-proxy-switcher-proxy-setting-mannually-4.png "BP Proxy Switcher & YiLu Proxy")
+![BP Proxy Switcher & YiLu Proxy](https://www.yiluproxy.org/wp-content/uploads/2023/03/bp-proxy-switcher-proxy-setting-mannually-4.png "BP Proxy Switcher & YiLu Proxy")  
 
 #### b. Proxy type: YiLu Proxy supports Socks5 or HTTP protocols. ####
-But when you select Socks5, this browser doesn’t support Socks proxies with user/pass. So I directly use HTTP here.
+But when you select Socks5, this browser doesn’t support Socks proxies with user/pass. So I directly use HTTP here.  
 ![BP Proxy Switcher & YiLu Proxy](https://www.yiluproxy.org/wp-content/uploads/2023/03/bp-proxy-switcher-proxy-HTTP-proxy-type-selection-5.png "BP Proxy Switcher & YiLu Proxy")
 
 ![BP Proxy Switcher & YiLu Proxy](https://www.yiluproxy.org/wp-content/uploads/2023/03/bp-proxy-switcher-proxy-HTTP-proxy-type-selection-6.png "BP Proxy Switcher & YiLu Proxy")
@@ -37,7 +37,7 @@ BP Proxy Switcher supports IP:port:label and IP:port:user:password:label two for
 ![BP Proxy Switcher & YiLu Proxy](https://www.yiluproxy.org/wp-content/uploads/2023/03/bp-proxy-switcher-proxy-setting-ip-port-password-7.png "BP Proxy Switcher & YiLu Proxy")
 
 ##### IP:port:label is suitable for all YiLu Proxy IPs. #####
-Right-click an IP and select a port.
+Right-click an IP and select a port.  
 ![BP Proxy Switcher & YiLu Proxy](https://www.yiluproxy.org/wp-content/uploads/2023/03/bp-proxy-switcher-yilu-port-forwarding-8.png "BP Proxy Switcher & YiLu Proxy")
 
 ##### IP:port:user:password:label is suitable for YiLu Proxy dynamic IPs and 4G/5G mobile IPs. #####
