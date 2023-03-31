@@ -9,7 +9,7 @@ Mozilla Firefox browser: https://addons.mozilla.org/en-US/firefox/addon/bp_proxy
 Mircosoft Edge browser: https://microsoftedge.microsoft.com/addons/detail/bp-proxy-switcher/hhachhdmkimllgfnhokphmadpdjnjcng  
 Here I use the Google Chrome browser as an example:
 
-![BP Proxy Switcher & YiLu Proxy](https://www.yiluproxy.org/wp-content/uploads/2023/03/bp-proxy-extension-in-google-chrome-2.png)) "BP Proxy Switcher & YiLu Proxy")
+![BP Proxy Switcher & YiLu Proxy](https://www.yiluproxy.org/wp-content/uploads/2023/03/bp-proxy-extension-in-google-chrome-2.png "BP Proxy Switcher & YiLu Proxy")
 
 ## 2. Enter proxies ##
 ### A. YiLuProxy Settings. ###
